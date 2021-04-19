@@ -1,0 +1,7 @@
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\bin\Debug\Tp01_Module02_Heritage.exe.config
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\bin\Debug\Tp01_Module02_Heritage.exe
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\bin\Debug\Tp01_Module02_Heritage.pdb
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\obj\Debug\Tp01_Module02_Heritage.csprojAssemblyReference.cache
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\obj\Debug\Tp01_Module02_Heritage.csproj.CoreCompileInputs.cache
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\obj\Debug\Tp01_Module02_Heritage.exe
+C:\Users\acochet2019\source\repos\Tp01_Module02_Heritage\Tp01_Module02_Heritage\obj\Debug\Tp01_Module02_Heritage.pdb
