@@ -1,0 +1,7 @@
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\obj\Debug\Tp01_Module03_Linq.csprojAssemblyReference.cache
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\obj\Debug\Tp01_Module03_Linq.csproj.CoreCompileInputs.cache
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\bin\Debug\Tp01_Module03_Linq.exe.config
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\bin\Debug\Tp01_Module03_Linq.exe
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\bin\Debug\Tp01_Module03_Linq.pdb
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\obj\Debug\Tp01_Module03_Linq.exe
+C:\Users\acochet2019\source\repos\Tp01_Module03_Linq\obj\Debug\Tp01_Module03_Linq.pdb
